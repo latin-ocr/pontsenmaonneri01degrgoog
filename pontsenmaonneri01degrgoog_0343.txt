@@ -1,0 +1,51 @@
+ru inaurire rroisiaus
+
+de l'axe longitudinal situee au-dessus d'elle doit dono etro
+egale, si l'epure a ete exactemcnt dressee, o l’aire comprise
+entre cette courbe et la partie de l’arre situee au-dessous, ces
+eires etant d’ailleurs limitees aux sections de olef et de re-
+tombee.
+
+Dans le cus d’une voute extradosste parallelement,e est
+une constante, et la condition peut s’ecrire:
+
+ffffidezo.
+
+ll suffit de porter sur la direction GN une longueur egale a
+GK. La construction s'eiiectuera donc en ce cas beaucoup
+plus rapidement.
+
+Gette remarqne peruret de veriiier immediatement l'exacti-
+tude de la courbe des pressione tracte sur une ¹epure, sans
+avoir besoin d'aucun renseignement autre que les longueurs ι
+GK et GN que l'on peut relever directement sur le dessin: si
+cette verification ne reussit pas, la courbe est necessairement
+ianase.
+
+La reciproque n'est pas vraie, mais on coucoit que la reus-
+site assure une tres grande probabilite en favour de la correc-
+tion des operations graphiques.
+
+Lorsque les sectionstronsversales figurees sur l'epure sont
+equidistantes, comme nous l’avcns toujours suppose dans le
+chapitre precedent, on peut, au lieu de tracer sur l'epure la
+
+courbe des pressione, se contenter de faire le somme des rap·
+
+portsB-(ii-Nli, correspondent aux sections successivos, en ayant
+
+soin de tenir compte du signe de GK, d'apres la convention
+lIsrecetlemrnent indiquee. Gette somme doit etro nulle puisque
+on a:
+
+Γρῖάε-εΣΕ-ῙΞἻ
+oe³ ‘- &³—’
+
+s designant l'equidistance des sections. Si la voute est extra·
+dossee parallelement, il suffit d'eiiectuer la somme Σ GK,
+
+qui doit donner o pour resultat. Gettc derniere operation est
+l’affaire de quelques minutos
+
+ 
+

@@ -1,0 +1,47 @@
+sernrmvross un m 'rurscam ons vourss ara
+
+Getta methodo, qui peut parultrea priori d'unc application
+penible, n’exige en redite pas grand travail: en edet, les
+differentes vodtes que l'on aa consideret successivement ont
+pour axes longitudinanx des courbes semblables; leurs spais-
+senrs sont proportionnelles et leurs charges reparties suivant
+la meme loi. Apres avoir calente les integrales definies rela-
+tives tl'une d’elles, on obtiendra les integrales relatives a la
+suivante en multipliant chacune des premieres par un coeld-
+eient dependant de ln similitude des axes longitudinaux et
+
+du rapport des epaisseurs. Ainsi, par exemple, l’intdgrale
+
+{333⁹ devrait ttre multiplice par le coellicient ff, dans
+
+lequel αῖ, rapport des demi-cordes des axes longitudinaux
+
+des vodtes, est egel au rapport de similitude de ces axes, et}
+
+est le rapport des epaisseurs des joints correspondents.
+Ayant obtenu chacune des integrales definies nouvelles par
+une simple multiplicatiora, il sera facile de celculer la
+poussdeQ et l'ordonnee z.
+
+La figure l63 represents une vodte circulaire que nous
+avons prise pour exemple. Les deux lignes marqude par le
+trait —————— sont les eourbes des pressione relatives'
+au poids propre de la vodte supposte dans un eas construite
+en une seule operation, et dans l’aulre divisse en deux rou-
+leaux. On voit que les distances irl’intrados de la seconde
+ocurbe sont sensihlement les moities des distanees de la pre-
+miere. Nous avons en outre marque sur la figure par le
+lrait -. -. —. -. la courbe des pressione correspondent au
+poids des tympans: cette courhe est independente du mode
+de construction de lavone, parce que, au moment ou on a
+cleve les tympans, le rouleau superieura pris son assiette et
+forme aveo le roulaau inlerieur un massif solidaire, tout aussi
+bien que si la vodte edt ete etablie des le principe avec toute
+son epaisseur.
+
+La construction des vodtes par rouleeux a donc pour conse·
+quenoe de diminuet de moitis les distances tl'intrados de tous
+les points de la courbe des pressione relative au poids propre
+
+ 
+

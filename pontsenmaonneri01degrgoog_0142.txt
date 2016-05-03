@@ -1,0 +1,54 @@
+reseres n’uuu ervrbnn sous un eone rer
+
+L la largeur dulit avent le retreeisseruent; ·
+
+l le portion de eette largeur leissee libre por les obstacles, dens le
+passage retreoi;
+
+tleprolendeur eonnue de l'eau dans ee passage.
+
+L'nire de la section (Α) aura pour valeur L (lt ψῃ), attende que le ψῃ
+exprime la protendeur de leae, du eote d'enront3 la vitesse est done
+
+De meme en (Β) l'eire de la seetien s'esprime par pile, valeur e laquelle
+
+repond la vitesse {ff
+Meintenent on peut appliquer le theorema de Bernouilli dens l’intervalle
+des sections (A) et (B), en negligeant le trottement du ln, vu le peu de dis·
+
+tanee de l'une a l'eulre, on aura de cette meniere :
+
+0² l · l ,-
+
+equation du troisieme degre en p, d'oir l’on tirere eette ineonnue par
+tetonnement. On commeneera par supposer y = o dans le premier membre,
+et alors on en cherebera levabor, qui sera une premiere approximation
+pour celle dep ; oette vuleur, substituee b sen tour dens le premier membre
+de l'equation, donnera l'ineonnue plus exactement3 et ainsi de suite, jusqu'rt
+ee que deux substitutione successivos donnent des resultats peudille-
+rents. ·
+
+D'epres Eytelwein‚ pour eppliquer cette iormule au passage de l'eau
+sous un pont, il faudrait prendre μ .-. 0,85 quand les piles presentent ear-
+rement leur saee anterieure eu comant, et 12:095 quand elles ont des
+avent-bees aigus. Dens le ces ordinaire, ou les erant-bees ont la forme
+d'un demi-cerole, on pourrait supposer μ = 0,90. Mais il est vruisemblable
+
+que le eoeltleient μ ne depend pas uniquemenl de la forme des pilos et
+
+l
+
+qu'il vnrie un peu evee le rapport ῖ ‚ear si ee rapport atteignait l'unite,
+
+toute eontraetion disparebunt, de muniere qu’on eurait alors μ = 1.
+
+Les developpements qui suivent sont des citations
+ei des resumes de serp-rand, Kleitz et de quelques
+autres auteurs. Plusieurs de ees documents· sent
+empruntes eux Arenoles des Ponte-et Cdoosee'm eollee·
+tien trop volumineuse pour se trouver dens les mains
+de tous les lngenieurs, meme de oeux qui sont atteehes
+arur services de l'l'jtot. Ce serait grand dommege de ne
+
+ 
+

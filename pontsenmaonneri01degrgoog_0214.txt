@@ -1,0 +1,48 @@
+nusrsrnueu uus uncouuunus n
+
+cassantes, ce rapport peut meme tomher au· -desscus dege t}
+
+Dans ce cas, il faut veritier separerneut que R' et Rl nc de·
+possent en aucune section les valcurs maxima qui correspon-
+dent a unc stabilite sulfisaute ι alors meme que R' ne serait
+pas excessis, R'', qui est plus petit eu valeur absolue, pourrait
+depascar la limite pratique pour l’extension.
+
+Supposons que la resistance de la fonte a la compression Ι
+soit le double de la resistence a l’extension‚ et quc, daus une
+seoticu transversale determinatam valeur dc R' atteigne
+exactement le maximum adrnis PouRr que la piece soit stabla,
+
+il laudra que l'on ait de plus: R' >—·
+
+Getta inegalite devient, en remplacaut R et Rt par leurs
+valenrs, en fonction des dimensions de la sectiou transversale
+et de la resultante des forces exterieures, et en chaugeant le
+
+signe de R', qui es t.negatil ·
+
+u u‘¹)Siia(¹†{·)·
+
+l
+
+D'otr l'on tire· .
+
+Cettc condition signilie quc le point d'application de la force
+F doit etro a l'interieur du profil rectangulaire qni limite la
+section transversale.
+
+Nous cn concluons que pour que la pisce en tonte donce, ἐι
+section rectaugulaire‚ dont nous parlons, soit etablie dans
+de bonnas conditions de'stahilite. il faut que le lieu tes points
+de rencontre des diverses sections transversales avec los resul-
+tantes des forces qui les sollicitent (lieu que l'cn appelle la
+courbe des pressione de lapiece) soit compris eu totalite dans
+l'intsrieur de l'ouvrage.
+
+S'il n'en cst pas ainsi, ¹ot qu'uue partie de la courbe des
+pressions, telle queo b (fig. ll), sorte du contour de la
+piace il sendra, pour que l'ouvrage soit stabla, que la di-
+mension de sa section transversale, pour toute la zone cor-
+
+ 
+

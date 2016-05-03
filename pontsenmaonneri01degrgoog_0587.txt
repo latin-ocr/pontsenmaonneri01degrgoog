@@ -1,0 +1,57 @@
+“ ose nors
+
+ment (l, s, y et e), ou que l'on onii calcnler(X'). On pourra dono les integret
+sone difficulee, soil direclemenl, si la forme de la courbe LML' et le mode
+de repartilion dela charge se prelentd une interpretation malhemrliqns
+ralionnelle, soit par quadratura. dans l¹hypolhese connaire qui sera le ors
+general de la prolique. ¹
+
+Les insonnues, Q, T el lo produit Or, ligarent toules au premier degre ea
+dehors des signes s. Laur determination se lero dono aisement. On eon·
+
+noitra ainsi le point H de la oourbe des pressione, el, en grandeur et direo
+
+tion, la resultante des pressioris ιῘᾶῖῙ-Ῑῑ qui passe en oe point. On ponne
+alors tracer la courbe des pressione par les procedes habiluels. Nous
+n'insistarons pes sar le detail des operatione, qui dermnt eire conduiies el
+effesluees suivant une methodo identique a cella expones au chapitren
+pour les rooles symetriques. ll est evidenl d'ailleurs que le travail sere
+beaucoup plus long et penible que dans ae dernier cas.
+
+L’application de la theoriedes vodles dissymelriques pourrail elne faite anx
+vodles de buteo, ou arcs-boulanls, dont l'objei esl d'exercer sur un mur oo
+un massil de maeonnerie une reaclion, horizonlale ou inclines, destineei
+compenser en lolalile ou en partie la pousses exercee sur oe mur per une
+vome, par un remblai ou par une relenue d’eau.
+
+Examinons le cns parlioulier d'une nodie, symetrique par rapport au plan
+verlical da la olel, qui porlerail une charge dissymelrique. ll esi possible de
+verilier l’enaclilude de l’epure de stabilite, dressee en suivant la methodo
+indiquee par nous, a l'aido de la remarque suivanle ε la poussee doit elne
+egale a la moilie de celle que l'on obtiendralt par la melbode du chapitre ιι,
+si l'on rendaii la charge symetriqus en appliquanl d droila de la olel une
+charge nouvelle idenlique d celle qui sollicito la portion gauohe de la voro,
+etoiceoersa; d'aulre part, le point de passage d la olel des courbes des
+pressione serait le meme pour les deux epures. Ca soni le des eonse-
+quences evidentes ai immediatos de la symetrie de la nodie.
+
+Le moda de verilicalion des epures de stabilite, indique e l'arlicle ⁴3
+(page 142) pour les vodles symetriquee, esl egalement applicabis, pour les
+memes raisons, aux vodtes dissymetriques‚ d condition d’operer d'ane
+relomhee e l’aulre.
+
+Remarquons en terminant qu’une vodte appuyee d’un sele sur une pile.
+el da l'oulre sur une cules, devrailen general, si l'on voulait proceder erec
+une rigueur absolue, elne consideres comme diseymetrique. D'habilude‚ en
+eliel, les relombees ,opposees ne sont pas eraclement au meme nirean.
+D'ailleurs la cules tout entiere peut elra consideres somme formant le pro·
+ongement de la nodie, landis que, pour la pila, la eeclion de retombeo est
+exsolemenl siluea au point de renconlre des axes longitudinaux dee rodier
+adjacentes. L'emploi de la methode de saleul applicable aux volites dissy-
+melriqoes entralnerait en pareil aas des operalions laborieuees‚ el ahsolu-
+ment inutiles. ll nous parailrail preferable, si la symetrie effective de la
+voute inspirait des doulos, de dresser separemeni, parle methodo du aba·
+pitre ιι, deux epurea distinctas, dont l'una se rapporlerait e la demi-roilo
+
+ 
+

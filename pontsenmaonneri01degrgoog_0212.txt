@@ -1,0 +1,50 @@
+eisterenoe ons nneonnnnns ιι
+
+Designons per t et θ’ les angles formes por les droites
+MN etM'N eveo le droite MN„ pnse pour origine, et per
+let 1 les longueurs GG, et G'G.. du prisme primitis et du
+prisme deforme.
+
+Nous eurons les relations:
+
+lzl-s‘E-Egdeett ¹:e- 'Qec
+
+si les veriebles F, ιι, ιι et b penvent etre exprimees ration-
+nellement en fonction de le verieble independente s, il sero
+possible d'integrorles deux expressions plecees sous le signe f,
+et l’on obtiendre einsi une expression mathematique de l' et
+det'.
+
+Dens le ces contraire, on ne peut obtenir ces deux inte-
+groles definies que por quadreture : il feudre divisor le prisone
+en nn certain nombre de pertice, eu moyen d'une serie de
+
+sections tres voisines se succedent entre MN et ΜΝ Ροιιι
+
+chaque section, on celculero le veleur numerique de A et
+
+Ea b
+ing-a Ρές on multipliore ees resultets perlo somme des demi·
+
+distences de chaque section eux sections precedente et sui-
+vente. L'on obtiendre einsi deux series de nombres, dont les
+toteux representeront approximetivernent les integrales de-
+
+linies
+
+t
+sla-‘’dcetsffldc.
+
+llest donc touj0urs possible de celculer, soit iper une rne-
+thode methemetique et rigoureuse, soit per une methodo
+numerique et approximetive, le deplecement subi per le
+section MN per rapport t le section ll,N„ lorsque le probleme
+est completcment determine, etque l'on connett les veleurs
+de F, ιι, ιι et b correspondent ts une section transversale quel·
+conque. ll suffit de pouvoir celculer le treveil subi per le
+metel dens une section quelconque d'une piece prismetique
+sollicites per des forces exterieures, pour que l’on puisse ege·
+lenient celculer le deformation qu'il e subis, scondition, bien
+
+ 
+

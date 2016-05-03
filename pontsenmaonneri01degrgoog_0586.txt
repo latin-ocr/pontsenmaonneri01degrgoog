@@ -1,0 +1,55 @@
+SUR LES VOUTES DlSSYMll'l'RlQUES 387 ’
+
+horizontale constante, dest-edire 11 poussee, 11 par T la composente verti-
+cele, dest-d-dire 11 portion de 11 charge totale transmise 1 11 retombee L,
+de 11 resultante des pressione qui passe en H.
+
+Le lettre 1 representem, comme d'hobitude, l'ordonnee 11 point H, qui
+pourre etre positive ou negative suivent le cas.
+
+Soit M un point quelconque de l'exe longitudinal, delmi per ses coordon· Ι ¹ <
+
+nees 1 11 y, dont 11 demiere peut etre negative (dens 11 figure 267, tel se·
+1111 11 111 pour un point evoisinant le rotembee L). Nous appellemus X' 11
+somme des momente, per rapport 11 point M, des forces verticales qui sol-
+licitent 11 portion de vodte comprise entre les sections tmnsversales qui
+possent en L et M, 1 l'exception de 11 11111111 11111111Τ exerceo per l'ep·
+pui L(le sens positil des momente etant dirige de hee en haut). Poisque
+l'on conneit 11 charge portee per l'ouvrage, il est toujcurs facile d'evaluer
+ce moment X', qui est egel 1- >l Pp, P etant un 111 poids eppliqnes entre
+L 11 Μ, etp se distance horizontele au point M.
+
+D'epres les notatione du chapitre 1, 1 represente l'epsisseur 111111111
+11 M, et ds 11 dillerentielle de 11 longueur developpee 11 11 courbe LML'.
+Nous pourrons tonjours celculer, pour le point M, les valeurs des expres-
+sions suivantes, dont toules les lettres representent des quentites 1111111
+11 faciles 1 determiner:
+
+1111111 X'tM-mll-cll-e -1111111
+
+“,-,,-ι-
+
+1111 11 11 11Ἠ11’ 1111111
+
+Les mconnues du probleme, Q, T etz, serent alors tournies por les trois
+equetions suivantes, 11111111 les integrales sont prises entre 11 limite inle-
+1111110, correspondent 11 point L, et 11 limite superieure S (longueur
+111111 developpee de l'exe longitudine] LML'), correspondant 11 point L':
+
+(1) s -111 s -1111 s ges-0 f {aa
+(2) s—ds÷T —dsl-Qzsey-,ds
+-Οψὲἑάε-ρέ -ds=o.
+
+11 ij-Le ae--laersr (Ξῖ-1111]
+
+,ρψψὼ- 0
+
+Ν111 11111111111 pesle 11111111ῑί11111111111111, et nous renner-
+ronseoet egard, comme 1111 11 chapitre n, 1 11111 1111111 des Ponte 111-
+tetliquce (peges 437 11411), 111 1111 les 11111 tirees.
+
+Dens ces equetions, les expressions placees sous 111 signes s renlcrment
+exclusivement des quantites que le dessio de l’ourrage 1111111 immediate-
+
+ 
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pontsenmaonneri01degrgoog_0525.png"; bbox 0 0 3462 5528; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1576 1994 1613 3622">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1576 1994 1613 3622">
+     <span class='ocr_line' id='line_1_1' title="bbox 1576 1994 1613 3622; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1592 1994 1611 2100; x_wconf 31' lang='lat' dir='ltr'>⁴6*ss</span> <span class='ocrx_word' id='word_1_2' title='bbox 1590 2131 1613 2236; x_wconf 46' lang='lat' dir='ltr'>vif-,ss</span> <span class='ocrx_word' id='word_1_3' title='bbox 1596 2269 1603 2331; x_wconf 69' lang='lat'><strong>—</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1585 2363 1606 2572; x_wconf 63' lang='lat' dir='ltr'>·nr.›.=o‹{n</span> <span class='ocrx_word' id='word_1_5' title='bbox 1588 2612 1603 2697; x_wconf 63' lang='lat' dir='ltr'>oue</span> <span class='ocrx_word' id='word_1_6' title='bbox 1584 2727 1602 2790; x_wconf 71' lang='lat' dir='ltr'>op</span> <span class='ocrx_word' id='word_1_7' title='bbox 1585 2821 1602 2873; x_wconf 68' lang='lat' dir='ltr'>‘uo</span> <span class='ocrx_word' id='word_1_8' title='bbox 1582 2907 1601 3016; x_wconf 61' lang='grc' dir='ltr'><strong>οΑῚει</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1580 3061 1598 3125; x_wconf 57' lang='lat' dir='ltr'>up</span> <span class='ocrx_word' id='word_1_10' title='bbox 1579 3157 1599 3346; x_wconf 47' lang='lat' dir='ltr'>carnae-¹</span> <span class='ocrx_word' id='word_1_11' title='bbox 1577 3389 1597 3454; x_wconf 62' lang='grc' dir='ltr'>οι)</span> <span class='ocrx_word' id='word_1_12' title='bbox 1576 3496 1596 3622; x_wconf 52' lang='lat' dir='ltr'>“ogd</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1736 5524">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1736 5524">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1736 5524; textangle 270"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1736 5524; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
